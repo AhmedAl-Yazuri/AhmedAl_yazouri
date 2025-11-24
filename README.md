@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Data Scientist | AI & Machine Learning Engineer</h3>
 
 <p align="center">
-  <em>متحمس لتحويل البيانات إلى رؤى قابلة للتنفيذ وبناء نماذج ذكية. خريج الكلية الجامعية للعلوم التطبيقية - غزة.</em>
+  <em>Excited to transform data into actionable insights and build interactive AI applications.</em>
 </p>
 
 ---
@@ -11,6 +11,7 @@
 
 - 📊 Analyzing complex datasets using **Pandas & NumPy**.
 - 🤖 Building ML models with **Scikit-Learn & TensorFlow**.
+- 💻 Developing interactive Data Apps with **Streamlit & React.js**.
 - 📉 Visualizing data stories with **Matplotlib & Seaborn**.
 - 🔭 Currently working on **Data Warehousing Projects**.
 
@@ -20,6 +21,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
