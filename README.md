@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Data Scientist | AI & Machine Learning Engineer</h3>
 
 <p align="center">
-  <em>Excited to transform data into actionable insights and build interactive AI applications.</em>
+  <em>مExcited to transform data into actionable insights and build interactive AI applications..</em>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 <p align="center">
   <b>📫 Let's Connect:</b><br>
-  <a href="https://www.linkedin.com/in/ahmed-alyazuri-a8a17b267">
-    <img src="https://www.linkedin.com/in/ahmed-alyazuri" />
+  <a href="https://www.linkedin.com/in/ahmed-alyazuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
