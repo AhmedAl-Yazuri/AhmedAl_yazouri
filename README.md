@@ -45,6 +45,6 @@
 <p align="center">
   <b>📫 Let's Connect:</b><br>
   <a href="https://www.linkedin.com/in/ahmed-alyazuri-a8a17b267">
-    <img src="https://www.linkedin.com/in/ahmed-alyazuri/" />
+    <img src="https://www.linkedin.com/in/ahmed-alyazuri" />
   </a>
 </p>
