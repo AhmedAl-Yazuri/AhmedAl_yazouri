@@ -1,46 +1,71 @@
 <div align="center">
-  <img src="https://i.imgur.com/vHdfj1s.png" width="100%" alt="Data Science Banner" />
+  <img src="https://i.imgur.com/E0n5F3O.png" width="100%" alt="AI Data Science Banner" />
+  <br/>
+  <br/>
+  <h1>Hi there, I'm Eng. Ahmed Alyazouri 👋</h1>
+  <h3>🚀 Data Scientist | AI Engineer | Full-Stack ML Developer</h3>
+  
+  <p>
+    <b>Turning raw data into intelligent, interactive web applications.</b>
+  </p>
+
+  <a href="https://www.linkedin.com/in/ahmed-alyazuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle" />
+  </a>
 </div>
 
-<h1 align="center">Eng. Ahmed Alyazouri</h1>
-<h3 align="center">Data Scientist | AI & Machine Learning Engineer</h3>
+<br/>
 
 ---
 
-### Data Science & AI Engineer
+### 👨‍💻 Professional Summary
 
-I am a dedicated Data Science and Artificial Intelligence engineer passionate about exploring the intersection of machine learning, deep learning, and interactive web technologies.
-My work reflects both academic study and hands-on projects where I apply AI techniques to real-world problems such as data warehousing, sales prediction, and building interactive data applications using **Streamlit & React.js**.
-
-📍 **Location:** Gaza Strip, Palestine
-🎓 **Education:** BSc in Data Science & Artificial Intelligence, University College of Applied Sciences
-🎯 **Goal:** Building transformative AI solutions with practical social impact.
+I am a **Data Scientist & AI Engineer** with a unique edge: I don't just build models; I deploy them.
+My expertise spans the full data lifecycle—from designing robust **Data Warehouses** to building predictive **Machine Learning** models, and finally wrapping them in interactive user interfaces using **React.js & Streamlit**.
 
 ---
 
-### 🛠 Skills & Expertise
+### 🧠 Core Competencies (What I Do)
 
-* **Programming Languages:** Python, SQL, JavaScript (React.js).
-* **Frameworks & Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Streamlit.
-* **Machine Learning & AI:** Regression, Classification, Clustering, Neural Networks, Deep Learning.
-* **Data Engineering:** Data Warehousing, ETL Processes, Database Management.
-* **Data Visualization:** Interactive Dashboards, Data Storytelling.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤖 Advanced Machine Learning</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50" />
+      <p>Building scalable ML & Deep Learning models using <b>TensorFlow & Scikit-Learn</b> to solve complex classification and regression problems.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Full-Stack Data Apps</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="50" />
+      <p>Bridging the gap between algorithms and end-users. I develop interactive AI dashboards and web apps using <b>React.js & Streamlit</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏗️ Data Engineering & Warehousing</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="50" />
+      <p>Designing efficient <b>Data Warehouses</b> and ETL pipelines. Transforming unstructured data into structured assets using <b>SQL & Pandas</b>.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📉 Data Storytelling</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2041/2041643.png" width="50" />
+      <p>Visualizing insights that drive decision-making. creating intuitive plots and reports with <b>Matplotlib, Seaborn, and Plotly</b>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌌 These are the forces shaping my journey in Data Science & AI:
+### 🛠️ Technology Stack
 
-* **Human-Centered AI:** Building intelligent tools that directly improve people's lives.
-* **From Lab to Cloud:** Ensuring ideas and experiments evolve into scalable, production-ready solutions (Deployment).
-* **Continuous Curiosity:** Treating every project as a stepping stone toward deeper discovery and impact.
-* **Interactive Intelligence:** Bridging the gap between complex models and end-users through intuitive interfaces.
+<div align="center">
 
----
-
-### 📫 How to Reach Me
-
-You can connect with me for collaborations, research, or discussions about AI and data science:
-
-* **LinkedIn:** [Ahmed Alyazouri](https://www.linkedin.com/in/ahmed-alyazuri/)
-* **GitHub:** [AhmedAl-Yazuri](https://github.com/AhmedAl-Yazuri)
-* **Kaggle:** [Ahmed Alyazouri](https://www.kaggle.com/) * **Email:** [ضع ايميلك هنا]
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![JavaScript](
