@@ -1,50 +1,46 @@
-<h1 align="center">Hi there, I'm Eng. Ahmed Alyazouri 👋</h1>
-<h3 align="center">🤖 Data Scientist | AI & Machine Learning Engineer</h3>
-
-<p align="center">
-  <em>مExcited to transform data into actionable insights and build interactive AI applications..</em>
-</p>
-
----
-
-### 🧠 What I Do
-
-- 📊 Analyzing complex datasets using **Pandas & NumPy**.
-- 🤖 Building ML models with **Scikit-Learn & TensorFlow**.
-- 💻 Developing interactive Data Apps with **Streamlit & React.js**.
-- 📉 Visualizing data stories with **Matplotlib & Seaborn**.
-- 🔭 Currently working on **Data Warehousing Projects**.
-
----
-
-### 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAl-Yazuri&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAl-Yazuri&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://i.imgur.com/vHdfj1s.png" width="100%" alt="Data Science Banner" />
 </div>
 
+<h1 align="center">Eng. Ahmed Alyazouri</h1>
+<h3 align="center">Data Scientist | AI & Machine Learning Engineer</h3>
+
 ---
 
-<p align="center">
-  <b>📫 Let's Connect:</b><br>
-  <a href="https://www.linkedin.com/in/ahmed-alyazuri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### Data Science & AI Engineer
+
+I am a dedicated Data Science and Artificial Intelligence engineer passionate about exploring the intersection of machine learning, deep learning, and interactive web technologies.
+My work reflects both academic study and hands-on projects where I apply AI techniques to real-world problems such as data warehousing, sales prediction, and building interactive data applications using **Streamlit & React.js**.
+
+📍 **Location:** Gaza Strip, Palestine
+🎓 **Education:** BSc in Data Science & Artificial Intelligence, University College of Applied Sciences
+🎯 **Goal:** Building transformative AI solutions with practical social impact.
+
+---
+
+### 🛠 Skills & Expertise
+
+* **Programming Languages:** Python, SQL, JavaScript (React.js).
+* **Frameworks & Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Streamlit.
+* **Machine Learning & AI:** Regression, Classification, Clustering, Neural Networks, Deep Learning.
+* **Data Engineering:** Data Warehousing, ETL Processes, Database Management.
+* **Data Visualization:** Interactive Dashboards, Data Storytelling.
+
+---
+
+### 🌌 These are the forces shaping my journey in Data Science & AI:
+
+* **Human-Centered AI:** Building intelligent tools that directly improve people's lives.
+* **From Lab to Cloud:** Ensuring ideas and experiments evolve into scalable, production-ready solutions (Deployment).
+* **Continuous Curiosity:** Treating every project as a stepping stone toward deeper discovery and impact.
+* **Interactive Intelligence:** Bridging the gap between complex models and end-users through intuitive interfaces.
+
+---
+
+### 📫 How to Reach Me
+
+You can connect with me for collaborations, research, or discussions about AI and data science:
+
+* **LinkedIn:** [Ahmed Alyazouri](https://www.linkedin.com/in/ahmed-alyazuri/)
+* **GitHub:** [AhmedAl-Yazuri](https://github.com/AhmedAl-Yazuri)
+* **Kaggle:** [Ahmed Alyazouri](https://www.kaggle.com/) * **Email:** [ضع ايميلك هنا]
