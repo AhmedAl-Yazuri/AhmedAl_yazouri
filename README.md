@@ -1,68 +1,63 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="AI & Data Science" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="AI Banner" />
 </div>
 
-<br/>
+<br />
+
+<h1 align="center">Hi, I'm Eng. Ahmed Alyazouri 👋</h1>
+<h3 align="center">🚀 Data Scientist | AI Engineer | Full Stack Developer</h3>
+<p align="center">
+  <b>Turning complex data into intelligent decisions and interactive apps.</b>
+</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Eng.+Ahmed+Alyazouri;Data+Scientist+%7C+AI+Engineer;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/ahmed-alyazuri-a8a17b267/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedalyeazuri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<br/>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="55%">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I am a <b>Data Scientist & AI Engineer</b> from Gaza, Palestine 🇵🇸. 
-        I specialize in building intelligent systems that solve real-world problems. My work bridges the gap between <b>Machine Learning models</b> and <b>Interactive Web Apps</b>.
-      </p>
-      <ul>
-        <li>📊 <b>Data Analysis:</b> Extracting insights using Pandas & SQL.</li>
-        <li>🤖 <b>Machine Learning:</b> Building predictive models with Scikit-Learn.</li>
-        <li>💻 <b>Deployment:</b> Creating apps with Streamlit & React.js.</li>
-        <li>🎓 <b>Education:</b> BSc in Data Science & AI, UCAS.</li>
-      </ul>
-      
-      <br/>
-      
-      <div align="left">
-        <a href="https://www.linkedin.com/in/ahmed-alyazuri-a8a17b267/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:ahmedalyeazuri@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<br />
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 Professional Profile
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+> **"Data is not just numbers; it's the voice of your business."**
+
+I am a passionate **Data Scientist** from Gaza, Palestine 🇵🇸. I specialize in the full data lifecycle: from building **Data Warehouses** and training **Machine Learning** models to deploying them as **Web Applications**.
+
+* 🔭 **Current Focus:** Advanced ETL Pipelines & Data Warehousing.
+* 🌱 **Learning:** Generative AI & Large Language Models (LLMs).
+* 💻 **Tech Stack:** Python, SQL, React.js, Streamlit.
+* 🎓 **Education:** BSc in Data Science & AI, UCAS.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
+
+| **Domain** | **Stack** |
+| :--- | :--- |
+| **🧠 AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **🌐 Web & Apps** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **🗄️ Data & Tools** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 🏆 Key Projects
+
+#### 1. Data Warehousing Project
+* **Description:** End-to-end data warehouse design for sales analysis.
+* **Tech:** SQL, Python, ETL.
+
+#### 2. Interactive AI Dashboard
+* **Description:** A web app to visualize and predict market trends.
+* **Tech:** Streamlit, Pandas, Scikit-Learn.
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAl-Yazuri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAl-Yazuri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedAl-Yazuri&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
